@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio! 🚀 This is where I showcase my skills, projects, and a little bit about myself. 
 
-[![Website Badge](https://img.shields.io/badge/Website-Live-blue)](your-website-link) ![HTML Badge](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![HTML Badge](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
 
 ## 👋 About Me
 
@@ -42,7 +42,5 @@ Feel free to reach out for any inquiries or opportunities!
 - 📧 **Email**: [532manojc@gmail.com](mailto:532manojc@gmail.com)
 - 🌍 **Location**: Bangalore, India
 
-## 🚀 Live Demo
 
-You can check out the live version of my portfolio here: [My Portfolio](your-website-link)
 
